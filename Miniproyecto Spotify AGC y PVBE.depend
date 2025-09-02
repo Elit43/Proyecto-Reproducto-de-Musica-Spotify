@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1619578189 source:d:\code blocks\miniproyecto spotify agc y pvbe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+
